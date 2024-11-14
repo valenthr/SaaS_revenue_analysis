@@ -10,7 +10,7 @@ Tableau.
 
 ## Data
 
-All data is in table "saas_revenue.csv" above:
+All data is in [this table](https://docs.google.com/spreadsheets/d/167q-LM-OyXMaa9GmWJhWJgqZUyBTL5flT8qVIZ_FbO4/edit?usp=sharing):
 * user_id - unique id of customer;
 * payment_date - date of purchase (from June 2022 to May 2023);
 * location - region of customer (USA, EMEA (Europe, the Middle East and Africa) and APAC (Asia-Pacific));

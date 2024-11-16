@@ -55,9 +55,10 @@ For USA region - Marketing Automation (approx. 297K$) and  Main App (approx. 187
 
 ### From [Second dashboard](https://public.tableau.com/app/profile/valentyn.hrechanyi/viz/saas_revenue_analysis/Dashboard2#1)
 
-1. From cohort analysis we know that in almost all months except October there are 3 tendentious: 1) revenue in 1 month of purchase approx. the same as in 3 month;
-2) the largest revenue is in 2 month; 
-3) after 3 month revenue is falls sharply (instead of September and November cohorts);
-4) after 4 month revenue changes are very low.
+1. From cohort analysis we know that in almost all months except October there are 4 tendentious:
+* revenue in 1 month of purchase approx. the same as in 3 month;
+* the largest revenue is in 2 month; 
+* after 3 month revenue is falls sharply (instead of September and November cohorts);
+* after 4 month revenue changes are very low.
 2. We can see that the graph of the change in revenue from new customers is very similar to the graph of the change in total revenue as a percentage, which confirms the trend from the cohort analysis - changes after 4 months after 1 purchase are negligible. Attention: we don't know revenue from new customers in June because we haven't any information about purchase history in previous months.
 3. Total revenue increases from June to March (except for December, which also has one of the lowest new user revenue), then starts to fall. At the same time, in March the amount of revenue from new users drops sharply: from $26,235 in March to $17,845 in April.

@@ -55,7 +55,7 @@ For USA region - Marketing Automation (approx. 297K$) and  Main App (approx. 187
 
 ### From [Second dashboard](https://public.tableau.com/app/profile/valentyn.hrechanyi/viz/saas_revenue_analysis/Dashboard2#1)
 
-1. From cohort analysis we know that in almost all months except October there are 4 tendentious:
+1. From cohort analysis we know that in all months are observed 4 tendentious:
 * revenue in 1 month of purchase approx. the same as in 3 month;
 * the largest revenue is in 2 month; 
 * after 3 month revenue is falls sharply (instead of September and November cohorts);
